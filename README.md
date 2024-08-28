@@ -1,1 +1,1 @@
-# MyProject
+# Guided Project
